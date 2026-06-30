@@ -1,0 +1,21 @@
+---
+title: "Proiecte"
+---
+
+Aici vor fi prezentate proiectele de cercetare în desfășurare și cele finalizate.
+
+## Rădăcinile sociale ale votului suveranist la alegerile din 2024–2025
+
+Proiectul editorial „Rădăcinile sociale ale votului suveranist” analizează sociologic alegerile prezidențiale și parlamentare desfășurate în România în anii 2024 și 2025.
+
+Analiza urmărește condițiile sociale care îi pot face pe indivizi receptivi la mesajele candidaților și partidelor auto-identificate drept suveraniste. Demersul este strict analitic și explicativ.
+
+Cercetarea s-a bazat pe o metodologie mixtă: analiză teritorială cantitativă a rezultatelor electorale și interviuri în profunzime cu localnici din trei comune din România.
+
+### Hărți interactive cu opțiunile de vot la nivel de unitate administrativ-teritorială
+
+1. [Alegerile prezidențiale anulate din 24 noiembrie 2024](https://ionut-marian-anghel.shinyapps.io/Alegeri_prezidentiale_anulate_noiembrie2024/)
+2. [Alegeri Camera Deputaților, 1 decembrie 2024](https://ionut-marian-anghel.shinyapps.io/Rezultate_alegeri_parlamentare_Camera-Deputatilor_decembrie2025/)
+3. [Alegeri Senat, 1 decembrie 2024](https://ionut-marian-anghel.shinyapps.io/Rezultate_alegeri_parlamentare_Senat_decembrie2025/)
+4. [Alegerile prezidențiale din 4 și 18 mai 2025](https://ionut-marian-anghel.shinyapps.io/Alegeri_prezidentiale_mai_2025/)
+5. [Votul pentru candidații suveraniști la cele trei runde de alegeri prezidențiale](https://ionut-marian-anghel.shinyapps.io/Rezultate_suveranisti_3scrutinuri/)

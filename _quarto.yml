@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Compas Social România"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Acasă
+      - href: proiecte.qmd
+        text: Proiecte
+      - href: publicatii.qmd
+        text: Publicații
+      - href: opinii.qmd
+        text: Opinii
+      - href: mass-media.qmd
+        text: Mass media
+      - href: cercetatori.qmd
+        text: Cercetători
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    lang: ro
