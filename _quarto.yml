@@ -6,6 +6,7 @@ project:
 website:
   title: "Compas Social România"
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Acasă
@@ -13,17 +14,19 @@ website:
         text: Proiecte
       - href: publicatii.qmd
         text: Publicații
-      - href: opinii.qmd
-        text: Opinii
-      - href: mass-media.qmd
-        text: Mass media
       - href: cercetatori.qmd
         text: Cercetători
+      - href: mass-media.qmd
+        text: Mass-media
+      - href: opinii.qmd
+        text: Opinii
       - href: contact.qmd
         text: Contact
 
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false
     lang: ro
+    page-layout: full
