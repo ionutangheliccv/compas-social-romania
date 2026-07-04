@@ -14,7 +14,7 @@ Compas Social România reunește proiecte de cercetare, publicații academice, a
 
 [Proiecte](proiecte.qmd){.btn .btn-primary}
 [Publicații](publicatii.qmd){.btn .btn-outline-primary}
-[Contact](contact.qmd){.btn .btn-outline-secondary}
+[Media](mass-media.qmd){.btn .btn-outline-secondary}
 
 :::
 

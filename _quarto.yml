@@ -23,8 +23,7 @@ website:
         text: Mass-media
       - href: opinii.qmd
         text: Opinii
-      - href: contact.qmd
-        text: Contact
+      
 
 format:
   html:
