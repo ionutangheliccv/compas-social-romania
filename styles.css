@@ -132,3 +132,42 @@ body {
   }
 
 }
+
+.book-card {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 28px;
+  align-items: start;
+  border: 1px solid #e1e4e8;
+  border-radius: 18px;
+  padding: 24px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+  margin: 25px 0 45px 0;
+}
+
+.book-cover img {
+  width: 180px;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+.book-info h3 {
+  margin-top: 0;
+  font-size: 1.6rem;
+}
+
+.book-info p {
+  margin-bottom: 14px;
+}
+
+@media (max-width: 800px) {
+  .book-card {
+    grid-template-columns: 1fr;
+  }
+
+  .book-cover img {
+    width: 220px;
+    max-width: 100%;
+  }
+}

@@ -4,7 +4,25 @@ title: "Publicații"
 
 ## Cărți
 
-- [*Suveranismul în România. De ce votează oamenii cu politicieni extremiști?*](https://humanitas.ro/humanitas/carte/suveranismul-in-romania)
+::: {.book-card}
+
+::: {.book-cover}
+
+![](imagini/Suveranismul-in-Romania.jpg)
+
+:::
+
+::: {.book-info}
+
+### Suveranismul în România. De ce votează oamenii cu politicieni extremiști?
+
+**Humanitas, 2026**
+
+Autori: **Alina Pop, Filip Alexandrescu, Ionuț Marian Anghel**
+
+Volumul analizează condițiile sociale, teritoriale și politice care au contribuit la susținerea candidaților și partidelor suveraniste în România în contextul electoral 2024–2025.
+
+[Vezi cartea la Humanitas](https://humanitas.ro/humanitas/carte/suveranismul-in-romania){.btn .btn-primary}
 
 ## Articole
 
