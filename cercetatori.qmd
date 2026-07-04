@@ -23,7 +23,6 @@ Institutul de Cercetare a Calității Vieții (ICCV)
 ### Filip Alexandrescu
 
 Institutul de Cercetare a Calității Vieții (ICCV)  
-Academia Română
 
 [Vezi profilul](cercetatori/filip-alexandrescu.html){.btn .btn-primary}
 
@@ -34,7 +33,7 @@ Academia Română
 ### Alina Pop
 
 Institutul de Cercetare a Calității Vieții (ICCV)  
-Academia Română
+
 
 [Vezi profilul](cercetatori/alina-pop.html){.btn .btn-primary}
 
