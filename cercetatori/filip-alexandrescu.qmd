@@ -1,0 +1,89 @@
+---
+title: "Filip Alexandrescu"
+---
+
+::: {.profile-header}
+
+![](../imagini/Alexandrescu_Filip.jpg){.profile-photo}
+
+::: {.profile-title}
+
+# Filip Alexandrescu
+
+<div class="profile-role">
+
+**Cercetător științific**
+
+Institutul de Cercetare a Calității Vieții (ICCV)  
+
+
+</div>
+
+::: {.profile-links}
+
+[📄 Curriculum Vitae](../documente/CV_Filip Alexandrescu.pdf){.btn .btn-primary}
+
+[✉️ Email](mailto:filip.alexand@gmail.com ){.btn .btn-outline-primary}
+
+[🎓 Google Scholar](https://scholar.google.com/citations?hl=en&user=kCqv5TMAAAAJ){.btn .btn-outline-secondary .external target="_blank"}
+
+:::
+
+:::
+
+:::
+
+---
+
+## Interese de cercetare
+
+- marginalizare socială
+- rasism spațial
+- mediu și schimbări climatice
+- neoliberalism urban
+
+---
+
+## Publicații reprezentative
+
+### Cărți
+
+- **Suveranismul în România. De ce votează oamenii cu politicieni extremiști?**  
+  Humanitas, 2026.
+
+- **Urban Marginality, Racialisation, Interdependence: Learning from Eastern Europe**  
+  (împreună cu Ryan Powell și Ana Vilenica).  
+  Routledge, 2025.
+
+---
+
+### Articole
+
+- Rusu, O., F. Alexandrescu, I. Bunescu, I. Codreanu, C. Gheorghe, & I. Velicu (2026).  
+  *Insidious Whiteness in Eastern Europe: Environmental Injustice and Dehumanisation in a Roma Community.*  
+  **Antipode**, 58(3), e70170.  
+  <https://doi.org/10.1111/anti.70170>
+
+- Velicu, I., Codreanu, I., Alexandrescu, F., Triefus, S., Rusu, O., & Bunescu, I. (2026).  
+  *The insidious toxicity of investor-state arbitration Gabriel Resources vs Romania.*  
+  **Globalizations**, 1–19.  
+  <https://doi.org/10.1080/14747731.2025.2596495>
+
+- Anghel, I. M., & Alexandrescu, F. (2025).  
+  *(Post)socialist urban orders and the unsettlement of racialized Roma in Romania.*  
+  **Eurasian Geography and Economics**, 1–23.  
+  <https://doi.org/10.1080/15387216.2025.2521022>
+
+---
+
+👉 Pentru lista completă a publicațiilor, consultați pagina
+
+[**Publicații**](../publicatii.html).
+
+---
+
+## Apariții în mass-media
+
+👉 Pentru lista completă a aparițiilor media, consultați pagina
+
+[**Mass-media**](../mass-media.html).

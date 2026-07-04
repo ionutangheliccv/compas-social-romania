@@ -2,41 +2,42 @@
 title: "Cercetători"
 ---
 
-## Filip Alexandrescu
 
-Filip Alexandrescu este doctor în sociologie al Universității Toronto și cercetător științific la Institutul de Cercetare a Calității Vieții al Academiei Române.
+Echipa Compas Social România reunește cercetători interesați de politici publice, inegalități sociale, marginalizare urbană, imigrație pentru muncă, minorități etnice și transformări politice în România și Uniunea Europeană.
 
-**Interese de cercetare:**
+::: {.cards}
 
-- marginalizare socială
-- rasism spațial
-- mediu și schimbări climatice
-- neoliberalism urban
+::: {.card}
 
-## Ionuț-Marian Anghel
+### Ionuț Marian Anghel
 
-Ionuț-Marian Anghel este sociolog și cercetător științific la Institutul de Cercetare a Calității Vieții. Doctor în sociologie al Școlii de Studii Avansate a Academiei Române, preocupările sale de cercetare vizează politicile sociale, inegalitățile, transformările statului social și guvernanța minorităților etnice în Europa post-socialistă.
-
-**Interese de cercetare:**
-
-- politici publice
-- inegalități sociale
-- migrație
-- marginalitate urbană
-- mișcări sociale
-
-➡️ [Descarcă CV-ul](documente/CV_Ionut Marian Anghel.pdf)
-
-## Alina Pop
-
-Alina Pop a obținut titlul de doctor de la Universitatea Sapienza din Roma. Interesele sale recente vizează marginalizarea socială, rolul femeilor în guvernarea locală și imigrația.
+Institutul de Cercetare a Calității Vieții (ICCV)  
 
 
-**Interese de cercetare:**
+[Vezi profilul](cercetatori/ionut-anghel.html){.btn .btn-primary}
 
-- reprezentări sociale
-- guvernare locală
-- imigrație pentru muncă
-- marginalitate urbană
+:::
 
-➡️ [Descarcă CV-ul](documente/CV_Alina Pop.pdf)
+::: {.card}
+
+### Filip Alexandrescu
+
+Institutul de Cercetare a Calității Vieții (ICCV)  
+Academia Română
+
+[Vezi profilul](#){.btn .btn-primary}
+
+:::
+
+::: {.card}
+
+### Alina Pop
+
+Institutul de Cercetare a Calității Vieții (ICCV)  
+Academia Română
+
+[Vezi profilul](#){.btn .btn-primary}
+
+:::
+
+:::

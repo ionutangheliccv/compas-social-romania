@@ -1,0 +1,82 @@
+---
+title: "Alina Pop"
+---
+
+::: {.profile-header}
+
+![](../imagini/alina_pop.jpg){.profile-photo}
+
+::: {.profile-title}
+
+# Alina Pop
+
+<div class="profile-role">
+
+**Cercetător științific**
+
+Institutul de Cercetare a Calității Vieții (ICCV)  
+
+</div>
+
+::: {.profile-links}
+
+[📄 Curriculum Vitae](../documente/CV_Alina Pop.pdf){.btn .btn-primary}
+
+[✉️ Email](mailto:alinapop.iccv@gmail.com){.btn .btn-outline-primary}
+
+[🎓 Google Scholar](https://scholar.google.com/citations?hl=en&user=ivMRjo8AAAAJ){.btn .btn-outline-secondary .external target="_blank"}
+
+:::
+
+:::
+
+:::
+
+---
+
+## Interese de cercetare
+
+- reprezentări sociale
+- guvernare locală
+- imigrație pentru muncă
+- marginalitate urbană
+
+---
+
+## Publicații reprezentative
+
+### Cărți
+
+- **Suveranismul în România. De ce votează oamenii cu politicieni extremiști?**  
+  Humanitas, 2026.
+
+- **Roșia Montană: Social Representations around an Environmental Controversy in Romania**.  
+  Verlag Shaker, 2014.
+
+---
+
+### Articole
+
+- Pop, Alina, Filip Alexandrescu, Júlia Adorjáni & Ionuț Marian Anghel (2025).  
+  *Feminisation, Governance and Roma on the Urban Margins.*  
+  **The Sociological Review**.  
+  <https://doi.org/10.1177/00380261251337281>
+
+- Alexandrescu, F., Ștefănescu, L., & Pop, A. (2026).  
+  *Hotbeds of climate vulnerability: marginalization, informality, and invisibilization of Roma slums in Romania.*  
+  **Eurasian Geography and Economics**, 67(3), 318–344.  
+  <https://doi.org/10.1080/15387216.2024.2418323>
+
+---
+
+👉 Pentru lista completă a publicațiilor, consultați pagina
+
+[**Publicații**](../publicatii.html).
+
+---
+
+## Apariții în mass-media
+
+👉 Pentru lista completă a aparițiilor media, consultați pagina
+
+[**Mass-media**](../mass-media.html).

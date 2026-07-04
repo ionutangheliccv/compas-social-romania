@@ -1,0 +1,87 @@
+---
+title: "Ionuț Marian Anghel"
+---
+
+::: {.profile-header}
+
+![](../imagini/Anghel_Ionut.jpg){.profile-photo}
+
+::: {.profile-title}
+
+# Ionuț Marian Anghel
+
+<div class="profile-role">
+
+**Cercetător științific**
+
+Institutul de Cercetare a Calității Vieții (ICCV)  
+
+</div>
+
+::: {.profile-links}
+
+[📄 Curriculum Vitae](../documente/CV_Ionut Marian Anghel.pdf){.btn .btn-primary}
+
+[✉️ Email](mailto:ionutanghel.iccv@gmail.com){.btn .btn-outline-primary}
+
+[🎓 Google Scholar](https://scholar.google.com/citations?user=RvOY9gYAAAAJ&hl=en){.btn .btn-outline-secondary .external target="_blank"}
+
+:::
+
+:::
+
+:::
+
+---
+
+## Interese de cercetare
+
+- Politici sociale
+- Inegalități sociale
+- Marginalitate urbană
+- Guvernanța minorităților etnice
+- Migrație pentru muncă
+- Mișcări sociale
+
+---
+
+## Publicații reprezentative
+
+### Cărți
+
+- **Suveranismul în România. De ce votează oamenii cu politicieni extremiști?**  
+  Humanitas, 2026.
+
+---
+
+### Articole
+
+- Pop, Alina, Filip Alexandrescu, Júlia Adorjáni & Ionuț Marian Anghel (2025).  
+  *Feminisation, Governance and Roma on the Urban Margins.*  
+  **The Sociological Review**.  
+  https://doi.org/10.1177/00380261251337281
+
+- Anghel, Ionuț Marian (2025).  
+  *Examining the expansion of social protection measures in EU countries during the Covid-19 pandemic crisis.*  
+  **International Journal of Sociology and Social Policy**.  
+  https://doi.org/10.1108/IJSSP-01-2025-0069
+
+- Anghel, Ionuț Marian & Filip Alexandrescu (2025).  
+  *(Post)socialist urban orders and the unsettlement of racialized Roma in Romania.*  
+  **Eurasian Geography and Economics**.  
+  https://doi.org/10.1080/15387216.2025.2521022
+
+👉 Pentru lista completă a publicațiilor, consultați pagina
+[**Publicații**](../publicatii.html).
+
+---
+
+## Apariții în mass-media
+
+- Radio România Cultural – *Timpul prezent: Suveranismul sub lupă*
+- RFI România – *Decriptaj: O incursiune în lumea suveranistă*
+- Radio România Internațional – *Stare de fapt*
+- Interviuri în **Libertatea**
+
+👉 Pentru lista completă a aparițiilor media, consultați pagina
+[**Mass-media**](../mass-media.html).

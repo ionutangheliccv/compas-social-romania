@@ -2,6 +2,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "cercetatori/*.qmd"
 
 website:
   title: "Compas Social România"
