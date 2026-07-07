@@ -54,14 +54,30 @@ Analize teritoriale și sociologice privind votul, participarea politică și as
 
 ::: {.highlight}
 
-**Rădăcinile sociale ale votului suveranist la alegerile din 2024–2025**  
-Proiect editorial și analitic dedicat înțelegerii condițiilor sociale, teritoriale și politice care au contribuit la susținerea candidaților și partidelor suveraniste în România.
+::: {.book-card}
+
+::: {.book-cover}
+
+![](imagini/Suveranismul-in-Romania.jpg)
 
 :::
 
-::: {.cards}
+::: {.book-info}
 
-::: {.card}
+### Rădăcinile sociale ale votului suveranist la alegerile din 2024–2025
+
+Proiect editorial și analitic dedicat înțelegerii condițiilor sociale, teritoriale și politice care au contribuit la susținerea candidaților și partidelor suveraniste în România.
+
+Rezultatele proiectului sunt dezvoltate în volumul:
+
+**Suveranismul în România. De ce votează oamenii cu politicieni extremiști?**  
+Humanitas, 2026.
+
+[Vezi cartea la Humanitas](https://humanitas.ro/humanitas/carte/suveranismul-in-romania){.btn .btn-primary}
+
+:::
+
+:::
 
 ### Hărți interactive
 
