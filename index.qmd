@@ -46,13 +46,18 @@ Cercetări despre locuire, marginalitate urbană, guvernanța minorităților et
 
 Analize teritoriale și sociologice privind votul, participarea politică și ascensiunea curentelor suveraniste și radicale de dreapta.
 
+:::
+
+:::
 
 ## Proiecte și resurse recente {.section-title}
 
 ::: {.featured-book}
 
 ::: {.featured-book-cover}
+
 ![](imagini/Suveranismul-in-Romania.jpg)
+
 :::
 
 ::: {.featured-book-text}
@@ -68,6 +73,12 @@ Rezultatele proiectului sunt dezvoltate în volumul **Suveranismul în România.
 :::
 
 :::
+
+## Resurse
+
+::: {.cards}
+
+::: {.card}
 
 ### Hărți interactive
 
