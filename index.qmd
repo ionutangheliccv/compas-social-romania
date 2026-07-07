@@ -46,24 +46,16 @@ Cercetări despre locuire, marginalitate urbană, guvernanța minorităților et
 
 Analize teritoriale și sociologice privind votul, participarea politică și ascensiunea curentelor suveraniste și radicale de dreapta.
 
-:::
-
-:::
 
 ## Proiecte și resurse recente {.section-title}
-
-::: {.highlight}
 
 ::: {.book-card}
 
 ::: {.book-cover}
-
 ![](imagini/Suveranismul-in-Romania.jpg)
-
 :::
 
 ::: {.book-info}
-
 ### Rădăcinile sociale ale votului suveranist la alegerile din 2024–2025
 
 Proiect editorial și analitic dedicat înțelegerii condițiilor sociale, teritoriale și politice care au contribuit la susținerea candidaților și partidelor suveraniste în România.
@@ -74,7 +66,6 @@ Rezultatele proiectului sunt dezvoltate în volumul:
 Humanitas, 2026.
 
 [Vezi cartea la Humanitas](https://humanitas.ro/humanitas/carte/suveranismul-in-romania){.btn .btn-primary}
-
 :::
 
 :::
