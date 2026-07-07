@@ -12,7 +12,7 @@ Compas Social România reunește proiecte de cercetare, publicații academice, a
 
 ::: {.hero-buttons}
 
-[Proiecte](proiecte.qmd){.btn .btn-primary}
+[Proiect Rădăcini](proiecte.qmd){.btn .btn-primary}
 [Publicații](publicatii.qmd){.btn .btn-outline-primary}
 [Media](mass-media.qmd){.btn .btn-outline-secondary}
 
@@ -49,23 +49,22 @@ Analize teritoriale și sociologice privind votul, participarea politică și as
 
 ## Proiecte și resurse recente {.section-title}
 
-::: {.book-card}
+::: {.featured-book}
 
-::: {.book-cover}
+::: {.featured-book-cover}
 ![](imagini/Suveranismul-in-Romania.jpg)
 :::
 
-::: {.book-info}
-### Rădăcinile sociale ale votului suveranist la alegerile din 2024–2025
+::: {.featured-book-text}
+
+### Rădăcinile sociale ale votului suveranist
 
 Proiect editorial și analitic dedicat înțelegerii condițiilor sociale, teritoriale și politice care au contribuit la susținerea candidaților și partidelor suveraniste în România.
 
-Rezultatele proiectului sunt dezvoltate în volumul:
-
-**Suveranismul în România. De ce votează oamenii cu politicieni extremiști?**  
-Humanitas, 2026.
+Rezultatele proiectului sunt dezvoltate în volumul **Suveranismul în România. De ce votează oamenii cu politicieni extremiști?**, Humanitas, 2026.
 
 [Vezi cartea la Humanitas](https://humanitas.ro/humanitas/carte/suveranismul-in-romania){.btn .btn-primary}
+
 :::
 
 :::

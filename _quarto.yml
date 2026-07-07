@@ -14,7 +14,7 @@ website:
       - href: index.qmd
         text: Acasă
       - href: proiecte.qmd
-        text: Proiect Rădăcini
+        text: Proiecte 
       - href: publicatii.qmd
         text: Publicații
       - href: cercetatori.qmd
